@@ -5,7 +5,7 @@ using System.Text;
 
 class Program7
 {
-    static void Main()
+    static void Main3()
     {
         string[] productsData = {
             "Ноутбук-120000-Электроника",
